@@ -1,0 +1,144 @@
+.tieude {
+	padding: 10px 0px 10px 0px;
+	border: #E4E4E4 1px solid;
+	margin-bottom: 2px;
+	font-size:16px;
+	font-weight: bold;
+	text-align: center;
+	color:#3624c2;
+}
+#search_diem{
+	padding: 8px 0px 15px 0px;
+	border: #E4E4E4 1px solid;
+	margin: 6px 0px 0px 0px;
+}
+.kqseach {
+	padding: 5px 0px 5px 0px;
+	margin: 4px 0px 4px 0px;
+	border: #E4E4E4 1px solid;
+	text-align: center;
+	font-size:13px;
+	font-weight: bold;
+	color:#3624c2;
+}
+
+.huongdan {
+	text-align: center;
+	padding: 0px 0px 5px 5px;
+	color:red;
+	font-weight: bold;
+}
+.tdmonhoc {
+	padding: 3px 0px 3px 10px;
+	font-weight: bold;
+}
+#errcode {
+	text-align: center;
+	padding: 0px 0px 5px 5px;
+	color:red;
+	font-weight: normal;
+}
+.stitle {
+	margin-bottom: 5px;
+	font-size:12px;
+	font-weight: bold;
+	text-align: center;
+	color:#3624c2;
+	background:#91bef4;
+	padding: 5px 0px 5px 0px;
+}
+
+.tracuu_input {
+	width:200px;
+	padding:2px 5px;
+	margin: 5px 0px 5px 50px;
+}
+.tracuutb {
+	padding:2px 0px;
+	margin: 5px 5px 5px 50px;
+}
+
+.tieudetkb {
+	padding: 10px 0px 10px 0px;
+	border: #E4E4E4 1px solid;
+	margin-bottom: 2px;
+	font-size:16px;
+	font-weight: bold;
+	text-align: center;
+	color:#3624c2;
+}
+.tieudet {
+	padding: 0px 0px 0px 0px;
+	border: #E4E4E4 1px solid;
+	margin-bottom: 2px;
+	font-size:12px;
+	font-weight: normal;
+	text-align: center;
+	color:#3624c2;
+}
+
+
+.tiet {
+	margin-bottom: 2px;
+	font-size:12px;
+	font-weight: normal;
+	text-align: center;
+	color:#1b0669;
+}
+.tietto {
+	margin-bottom: 2px;
+	font-size:10px;
+	font-weight: normal;
+	text-align: center;
+	color:#1b0669;
+	height:22px;
+}
+.buoi {
+	padding: 5px 0px 5px 5px;
+	margin: 6px 0px 2px 0px;
+	font-size:14px;
+	font-weight: bold;
+	color:#3624c2;
+	background:#8ff373;
+}
+
+.chuy {
+	padding: 5px 0px 5px 5px;
+	color:red;
+	font-weight: bold;
+}
+
+.tkbck {
+	color:blue;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+.tbsc {
+	margin-left: 18px;
+}
+
+.tkbbottom {
+	border: #E4E4E4 1px solid;
+}
+.ngayad {
+	text-align: center;
+	font-size:13px;
+	font-weight: normal;
+	color:#3624c2;
+}
+.tengv {
+	text-align: center;
+	font-size:14px;
+	font-weight: bold;
+	color:#3624c2;
+}
+
+#hoten {
+	font-size:12px;
+}
+.kqcn {
+	font-size:12px;
+	font-weight: normal;
+	text-align: center;
+}
