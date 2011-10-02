@@ -203,7 +203,7 @@ function mains($content, $lophoc, $namhoc, $ext, $script, $kqsearch)
     $xtpl->assign( 'KEY', $kqsearch[1] );
     $xtpl->assign( 'HKID', $kqsearch[2] );
     $xtpl->assign( 'NAMID', $kqsearch[3] );
-    $xtpl->assign( 'FINDTYPE', $kqsearch[4] );
+    $xtpl->assign( 'FINDTYPE', 2 );
     $links = NV_BASE_SITEURL . "index.php?" . NV_LANG_VARIABLE . "=" . NV_LANG_DATA . "&amp;" . NV_NAME_VARIABLE . "=" . $module_name . "&amp;" . NV_OP_VARIABLE . "=view&keywords";
     $xtpl->assign( 'LINKS', $links );
     if ( ! empty( $content) )
